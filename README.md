@@ -8,4 +8,8 @@
 ![grep](./grep.jpg)
 ### CH03_VID16_Using Regular Expressions with Grep
 ![Regular Expressions with Grep](./Regular_Expressions_with_Grep.jpg)
-### 
+
+
+## CH05_Creating, Viewing, and Editing Text Files
+### CH05_VID06_VIM Cheat Sheet
+![CH05_VID06_VIM Cheat Sheet](./vim.jpg)
